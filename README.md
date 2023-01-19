@@ -30,7 +30,7 @@ Content-Type: applicaton/json
 - 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="20"/>
 - 𝚖𝚢𝚜𝚚𝚕 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25" height="20"/>
 - 𝚟𝚜𝚌𝚘𝚍𝚎 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25" height="20"/>
-- - 𝚛𝚎𝚊𝚌𝚝 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" height="20"/>
+- 𝚛𝚎𝚊𝚌𝚝 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" height="20"/>
 
 
 ### 𝚌𝚘𝚖𝚏𝚘𝚛𝚝𝚊𝚋𝚕𝚎 🌟
